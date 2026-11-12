@@ -27,7 +27,7 @@ Each book in the series is a real project, from the first question to a checked 
 | 1 | [PyQGIS from Scratch](https://elviragd-lab.github.io/field-to-code-pyqgis/) | Python from scratch, automating QGIS, building your own plugin | in progress |
 | 2 | [Remote Sensing from Scratch](https://elviragd-lab.github.io/field-to-code-remote-sensing/) | how a satellite sees the Earth: Sentinel-2, indices, terrain, accuracy | in progress |
 | 3 | Spatial Statistics from Scratch | statistics for spatial data in Python | coming soon |
-| 4 | LiDAR from Scratch | point clouds and forest growth from Spain's national LiDAR | coming soon |
+| 4 | [LiDAR from Scratch](https://elviragd-lab.github.io/field-to-code-lidar/) | point clouds and forest growth from Spain's national LiDAR | in progress |
 | 5 | Cloud Native | cloud data and satellite image time series | planned |
 | 6 | Storms | storms, forest damage and power outages | planned |
 | 7 | Risk | where trees will fall on power lines: the model and how we test it | planned |
@@ -36,7 +36,7 @@ Books 4–7 are the learning side of **Pajares**, an open research project on fo
 
 ## Where I am now
 
-November 2026: book 1 has its prologue and chapter 1 published; book 2, its prologue and chapters 1 to 3. Book 4 is in preparation.
+November 2026: book 1 has its prologue and chapter 1 published; book 2, its prologue and chapters 1 to 3. Book 4 now has its own site and is being written.
 
 ## About the author
 

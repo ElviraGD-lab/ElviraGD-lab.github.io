@@ -27,7 +27,7 @@ Cada libro de la serie es un proyecto real, desde la primera pregunta hasta un r
 | 1 | [PyQGIS desde cero](https://elviragd-lab.github.io/field-to-code-pyqgis/) | Python desde cero, automatización de QGIS, un plugin propio | en redacción |
 | 2 | [Teledetección desde cero](https://elviragd-lab.github.io/field-to-code-remote-sensing/) | cómo ve la Tierra un satélite: Sentinel-2, índices, relieve, precisión | en redacción |
 | 3 | Estadística espacial desde cero | estadística de datos espaciales con Python | próximamente |
-| 4 | LiDAR desde cero | nubes de puntos y crecimiento del bosque con el LiDAR nacional | próximamente |
+| 4 | [LiDAR desde cero](https://elviragd-lab.github.io/field-to-code-lidar/) | nubes de puntos y crecimiento del bosque con el LiDAR nacional | en redacción |
 | 5 | Cloud Native | datos en la nube y series temporales de imágenes | previsto |
 | 6 | Temporales | temporales, daños en el bosque y cortes de luz | previsto |
 | 7 | Riesgo | dónde caerán árboles sobre las líneas: el modelo y su validación | previsto |
@@ -36,7 +36,7 @@ Los libros del 4 al 7 son la parte didáctica de **Pajares**, un proyecto de inv
 
 ## Dónde estoy ahora
 
-Noviembre de 2026: del libro 1 están publicados el prólogo y el capítulo 1; del libro 2, el prólogo y los capítulos 1 a 3. El libro 4 está en preparación.
+Noviembre de 2026: del libro 1 están publicados el prólogo y el capítulo 1; del libro 2, el prólogo y los capítulos 1 a 3. El libro 4 ya tiene su web y está en redacción.
 
 ## Sobre la autora
 
