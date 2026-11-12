@@ -1,0 +1,30 @@
+# See docs at: https://mystmd.org/guide/frontmatter
+version: 1
+project:
+  id: field-to-code
+  title: "From Field to Code · Del campo al código"
+  description: >-
+    An open series of seven books for field engineers moving into modern
+    geospatial engineering: one real project per book, Spanish and English.
+  keywords:
+    - geospatial engineering
+    - GIS
+    - remote sensing
+    - LiDAR
+    - spatial statistics
+    - open education
+  authors:
+    - name: Elvira Gayanova
+      orcid: 0009-0002-4252-311X
+  license:
+    content: CC-BY-4.0
+    code: Apache-2.0
+  github: https://github.com/ElviraGD-lab/ElviraGD-lab.github.io
+  toc:
+    - file: index.md
+    - file: es.md
+    - file: en.md
+site:
+  template: book-theme
+  options:
+    logo_text: From Field to Code
