@@ -20,7 +20,7 @@ Cada libro de la serie es un proyecto real, desde la primera pregunta hasta un r
 - **Comprobaciones honestas.** Si un resultado no se confirma, también se publica.
 - **En español y en inglés.** El texto, con licencia CC BY 4.0; el código, con Apache-2.0. Todo es gratuito.
 
-## El camino: siete libros
+## El camino: ocho libros
 
 | N.º | Libro | Qué enseña | Estado |
 |---|---|---|---|
@@ -28,11 +28,12 @@ Cada libro de la serie es un proyecto real, desde la primera pregunta hasta un r
 | 2 | [Teledetección desde cero](https://elviragd-lab.github.io/field-to-code-remote-sensing/) | cómo ve la Tierra un satélite: Sentinel-2, índices, relieve, precisión | en redacción |
 | 3 | [Estadística espacial desde cero](https://elviragd-lab.github.io/field-to-code-statistics/) | estadística de datos espaciales con Python | en redacción |
 | 4 | [LiDAR desde cero](https://elviragd-lab.github.io/field-to-code-lidar/) | nubes de puntos y crecimiento del bosque con el LiDAR nacional | en redacción |
-| 5 | Cloud Native | datos en la nube y series temporales de imágenes | previsto |
-| 6 | Temporales | temporales, daños en el bosque y cortes de luz | previsto |
-| 7 | Riesgo | dónde caerán árboles sobre las líneas: el modelo y su validación | previsto |
+| 5 | Líneas de alta tensión desde cero | cómo es una línea eléctrica y qué importa de ella a un ingeniero geoespacial: la flecha del conductor, las distancias de seguridad, los corredores; calculadoras dentro del propio libro | previsto |
+| 6 | Cloud Native | datos en la nube y series temporales de imágenes | previsto |
+| 7 | Temporales | temporales, daños en el bosque y cortes de luz | previsto |
+| 8 | Riesgo | dónde caerán árboles sobre las líneas: el modelo y su validación | previsto |
 
-Los libros del 4 al 7 son la parte didáctica de **Pajares**, un proyecto de investigación abierto sobre bosques, temporales y líneas eléctricas en España. La primera herramienta del proyecto es [`canopy-growth`](https://github.com/ElviraGD-lab/canopy-growth) ([DOI 10.5281/zenodo.23856842](https://doi.org/10.5281/zenodo.23856842)).
+Los libros del 4 al 8 son la parte didáctica de **Pajares**, un proyecto de investigación abierto sobre bosques, temporales y líneas eléctricas en España. La primera herramienta del proyecto es [`canopy-growth`](https://github.com/ElviraGD-lab/canopy-growth) ([DOI 10.5281/zenodo.23856842](https://doi.org/10.5281/zenodo.23856842)).
 
 ## Dónde estoy ahora
 

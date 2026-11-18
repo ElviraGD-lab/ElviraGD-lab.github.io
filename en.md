@@ -20,7 +20,7 @@ Each book in the series is a real project, from the first question to a checked 
 - **Honest checks.** If a result doesn't hold up, that gets published too.
 - **Spanish and English.** Text under CC BY 4.0, code under Apache-2.0, all of it free.
 
-## The path: seven books
+## The path: eight books
 
 | No. | Book | What it teaches | Status |
 |---|---|---|---|
@@ -28,11 +28,12 @@ Each book in the series is a real project, from the first question to a checked 
 | 2 | [Remote Sensing from Scratch](https://elviragd-lab.github.io/field-to-code-remote-sensing/) | how a satellite sees the Earth: Sentinel-2, indices, terrain, accuracy | in progress |
 | 3 | [Spatial Statistics from Scratch](https://elviragd-lab.github.io/field-to-code-statistics/) | statistics for spatial data in Python | in progress |
 | 4 | [LiDAR from Scratch](https://elviragd-lab.github.io/field-to-code-lidar/) | point clouds and forest growth from Spain's national LiDAR | in progress |
-| 5 | Cloud Native | cloud data and satellite image time series | planned |
-| 6 | Storms | storms, forest damage and power outages | planned |
-| 7 | Risk | where trees will fall on power lines: the model and how we test it | planned |
+| 5 | Power Lines from Scratch | how a power line works and what a geospatial engineer needs from it: conductor sag, safety clearances, corridors; calculators built into the book | planned |
+| 6 | Cloud Native | cloud data and satellite image time series | planned |
+| 7 | Storms | storms, forest damage and power outages | planned |
+| 8 | Risk | where trees will fall on power lines: the model and how we test it | planned |
 
-Books 4–7 are the learning side of **Pajares**, an open research project on forests, storms and power lines in Spain. The project's first tool is [`canopy-growth`](https://github.com/ElviraGD-lab/canopy-growth) ([DOI 10.5281/zenodo.23856842](https://doi.org/10.5281/zenodo.23856842)).
+Books 4–8 are the learning side of **Pajares**, an open research project on forests, storms and power lines in Spain. The project's first tool is [`canopy-growth`](https://github.com/ElviraGD-lab/canopy-growth) ([DOI 10.5281/zenodo.23856842](https://doi.org/10.5281/zenodo.23856842)).
 
 ## Where I am now
 
